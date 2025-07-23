@@ -30,6 +30,8 @@ release.properties
 dependency-reduced-pom.xml
 build/
 .mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
 
 # Eclipse
 .classpath
